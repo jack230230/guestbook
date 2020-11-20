@@ -1,0 +1,8 @@
+preInstalls:
+
+appConfig:
+  name: guestbook
+  type: manifest
+  resourcePath: .
+
+svcConfigs:
